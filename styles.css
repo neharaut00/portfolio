@@ -150,6 +150,17 @@ h3{
     padding-left: 180px;
     padding-right: 180px;
 }
+.achievements{
+    text-align: left;    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:100px;
+    padding-right:100px;
+}
+
+.achievements>p{
+    text-align: justify;
+}
 
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
